@@ -1,0 +1,16 @@
+{
+  "name": "project-base",
+  "version": "1.0.0",
+  "scripts": {
+    "eslint": "eslint"
+  },
+  "description": "",
+  "main": "lint-test.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-config-angular": "^0.5.0"
+  },
+  "dependencies": {}
+}
